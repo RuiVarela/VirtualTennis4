@@ -1,6 +1,8 @@
 # VirtualTennis4
 Virtual Tennis 4 in java
 
+![Image of Yaktocat](https://raw.githubusercontent.com/RuiVarela/VirtualTennis4/master/preview.png)
+
 
 ## Instruções
 Para jogar tem de validar todos os jogadores que pretendem jogar.
