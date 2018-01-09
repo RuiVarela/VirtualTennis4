@@ -1,7 +1,11 @@
 # VirtualTennis4
-Virtual Tennis 4 in java
+Virtual Tennis 4 in java (2003)
 
-![Image of Yaktocat](https://raw.githubusercontent.com/RuiVarela/VirtualTennis4/master/preview.png)
+![Preview](https://raw.githubusercontent.com/RuiVarela/VirtualTennis4/master/preview.png)
+
+A ready to run version is available [here](https://github.com/RuiVarela/VirtualTennis4/blob/master/release.zip) ,
+- you need to have [java installed](https://java.com/en/download/)
+- just press *Tenis.jar* to start the app
 
 
 ## Instruções
