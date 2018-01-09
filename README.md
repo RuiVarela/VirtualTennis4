@@ -8,10 +8,9 @@ Virtual Tennis 4 in java
 Para jogar tem de validar todos os jogadores que pretendem jogar.
 
 ### Exemplo:
-Hardcoder Vs Pixies
-Equipa da esquerda: Ryven(humano)
-Equipa da direita: Houdini(humano), Nuno(humano)
-
+* Hardcoder Vs Pixies
+* Equipa da esquerda: Ryven(humano)
+* Equipa da direita: Houdini(humano), Nuno(humano)
 
 Para a Equipa da Esquerda:
 - Clique na ComboBox *Equipa* e escolha *Esquerda*.
