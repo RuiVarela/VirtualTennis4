@@ -39,6 +39,8 @@ Para a Equipa da Direita:
 
 Clique *Start* para komeçar.
 
+![Preview](https://raw.githubusercontent.com/RuiVarela/VirtualTennis4/master/preview.gif)
+
 Virtual Tennis 4 por
 Ryven
 Houdini
